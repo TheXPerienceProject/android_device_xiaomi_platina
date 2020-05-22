@@ -23,9 +23,9 @@
 
 # inherit MI 8 Lite Havoc device config
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/havoc_platina.mk
+    $(LOCAL_DIR)/xperience_platina.mk
 
 COMMON_LUNCH_CHOICES := \
-    havoc_platina-eng \
-    havoc_platina-userdebug \
-    havoc_platina-user
+    xperience_platina-eng \
+    xperience_platina-userdebug \
+    xperience_platina-user
